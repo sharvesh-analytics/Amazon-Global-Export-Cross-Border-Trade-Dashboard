@@ -9,7 +9,7 @@
 
 ---
 
-## 📸 Executive Visual Preview
+## 📸Executive Visual Preview
 
 <div align="center">
   <img src="Screenshot (22).png" width="48%" alt="Global Trade Overview Dashboard" />
